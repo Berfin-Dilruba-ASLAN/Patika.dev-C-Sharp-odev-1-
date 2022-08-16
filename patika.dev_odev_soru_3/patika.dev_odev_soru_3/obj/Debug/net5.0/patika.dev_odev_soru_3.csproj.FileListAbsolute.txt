@@ -1,0 +1,16 @@
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\bin\Debug\net5.0\patika.dev_odev_soru_3.exe
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\bin\Debug\net5.0\patika.dev_odev_soru_3.deps.json
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\bin\Debug\net5.0\patika.dev_odev_soru_3.runtimeconfig.json
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\bin\Debug\net5.0\patika.dev_odev_soru_3.runtimeconfig.dev.json
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\bin\Debug\net5.0\patika.dev_odev_soru_3.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\bin\Debug\net5.0\ref\patika.dev_odev_soru_3.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\bin\Debug\net5.0\patika.dev_odev_soru_3.pdb
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.csproj.AssemblyReference.cache
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.AssemblyInfoInputs.cache
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.AssemblyInfo.cs
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\ref\patika.dev_odev_soru_3.dll
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.pdb
+C:\Users\Sercan\Desktop\patika.dev\Ödev-1\patika.dev_odev_soru_3\patika.dev_odev_soru_3\obj\Debug\net5.0\patika.dev_odev_soru_3.genruntimeconfig.cache
